@@ -1,2 +1,3 @@
-countries=('Croatia,'USA','Argentina')
+countries=['Croatia,'USA','Argentina']
+
 len(countries)
